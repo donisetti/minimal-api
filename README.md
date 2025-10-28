@@ -42,3 +42,8 @@ Segurança e Ambientes: A connection string deve ser tratada com cuidado. Em amb
 Ajustes Sugeridos para Connection String:
 
 A melhor abordagem é configurar a DbContext apenas uma vez no método ConfigureServices em Startup.cs e remover a lógica de OnConfiguring no DbContexto, pois a configuração já será fornecida via injeção de dependência.
+
+
+Dialogo como Chatgpt, para correção de problema de conexao com o mysql ou mariadb
+
+https://app.adapta.one/chats/shared/ad9a7eef-abc2-458c-a7ee-753dd893550e
