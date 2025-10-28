@@ -14,3 +14,10 @@ https://github.com/digitalinnovationone/minimal-api
  
  
 Bons estudos 😉
+
+Acesso:
+
+{
+  "email": "administrador@teste.com",
+  "senha": "123456"
+}
